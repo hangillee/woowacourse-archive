@@ -165,11 +165,11 @@
     <tbody>
         <tr>
             <td>투룻(touroot)</td>
-            <td><a href="https://touroot.kr">https://touroot.kr</a></td>
+            <td><a href="https://touroot.kr">서비스 링크</a></td>
         </tr>
         <tr>
             <td>투룻 Github 저장소</td>
-            <td><a href="https://github.com/woowacourse-teams/2024-touroot">https://github.com/woowacourse-teams/2024-touroot</a></td>
+            <td><a href="https://github.com/woowacourse-teams/2024-touroot/tree/production/be">Github Repository</a></td>
         </tr>
     </tbody>
 </table>
