@@ -168,8 +168,11 @@
             <td><a href="https://touroot.kr">서비스 링크</a></td>
         </tr>
         <tr>
-            <td>투룻 Github 저장소</td>
+            <td rowspan="3">투룻 Github 저장소</td>
             <td><a href="https://github.com/woowacourse-teams/2024-touroot/tree/production/be">Github Repository</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/woowacourse-teams/2024-touroot/pulls?q=is%3Apr+is%3Aclosed+assignee%3Ahangillee">작성한 PR 목록</a></td>
         </tr>
     </tbody>
 </table>
